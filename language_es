@@ -1,0 +1,13 @@
+{
+	"items": [
+		{
+			"id": "id_1",
+			"value": "Esto es mi primera prueba en castellano"
+		},
+		{
+			"id": "id_2",
+			"value": "Esta es mi segunda prueba en castellano"
+		}
+
+	]
+}
