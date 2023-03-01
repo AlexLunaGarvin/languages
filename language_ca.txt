@@ -1,0 +1,13 @@
+{
+	"items":[
+		{
+			"id":"id_1",
+			"value":"Aquesta es la primera proba en català"
+		},
+		{
+			"id": "id_2",
+			"value": "Aquesta es la segona proba en català"
+		}
+	
+	]
+}
