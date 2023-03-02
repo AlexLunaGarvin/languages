@@ -1,12 +1,12 @@
 {
 	"model" : 0,
 	"revision" : 0,
-	"addition" : 1,
+	"addition" : 3,
 
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Bienvenidos"
+			"value": "Bienvenidos uwu"
 		},
 		{
 			"id": "id_2",
