@@ -1,16 +1,24 @@
 {
-        "model" : 0,
-        "revision" : 0,
-        "addition" : 2,
+	"model" : 0,
+	"revision" : 0,
+	"addition" : 1,
 
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Esto es mi primera prueba en castellano"
+			"value": "Bienvenidos"
 		},
 		{
 			"id": "id_2",
-			"value": "Esta es mi tercera prueba de version en castellano"
+			"value": "Introducid el nombre de la empresa y presionad 'Comenzar' "
+		},
+		{
+			"id": "id_3",
+			"value": "Comenzar"
+		},
+		{
+			"id": "id_4",
+			"value": "Borrar "
 		}
 
 	]
