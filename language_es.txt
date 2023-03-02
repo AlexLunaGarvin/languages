@@ -1,7 +1,7 @@
 {
-	"model" : 1,
-	"revision" : 2,
-	"addition" : 3,
+	"model" : 0,
+	"revision" : 0,
+	"addition" : 1,
 
 	"items": [
 		{
