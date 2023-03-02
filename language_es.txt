@@ -6,7 +6,7 @@
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Bienvenidos uwu"
+			"value": "Bienvenidos"
 		},
 		{
 			"id": "id_2",
