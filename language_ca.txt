@@ -1,13 +1,25 @@
 {
-	"items":[
+	"model" : 0,
+	"revision" : 0,
+	"addition" : 1,
+
+	"items": [
 		{
-			"id":"id_1",
-			"value":"Aquesta es la primera proba en català"
+			"id": "id_1",
+			"value": "Benvinguts"
 		},
 		{
 			"id": "id_2",
-			"value": "Aquesta es la segona proba en català"
+			"value": "Introdueix el nom de l'empresa i prem 'Començar'"
+		},
+		{
+			"id": "id_3",
+			"value": "Començar"
+		},
+		{
+			"id": "id_4",
+			"value": "Esborrar"
 		}
-	
+
 	]
 }
