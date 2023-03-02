@@ -10,7 +10,7 @@
 		},
 		{
 			"id": "id_2",
-			"value": "Esta es mi segunda prueba en castellano"
+			"value": "Esta es mi segunda prueba de version en castellano"
 		}
 
 	]
