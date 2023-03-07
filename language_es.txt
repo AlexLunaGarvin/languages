@@ -1,7 +1,7 @@
 {
 	"model" : 0,
 	"revision" : 0,
-	"addition" : 1,
+	"addition" : 2,
 
 	"items": [
 		{
@@ -10,7 +10,7 @@
 		},
 		{
 			"id": "id_2",
-			"value": "Introducid el nombre de la empresa y presionad 'Comenzar' "
+			"value": "Introducid el nombre de la empresa y presionad 'Comenzar' Se ha actualizado correctamente"
 		},
 		{
 			"id": "id_3",
