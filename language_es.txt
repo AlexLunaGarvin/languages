@@ -14,7 +14,7 @@
 		},
 		{
 			"id": "id_3",
-			"value": "Introduce el nombre de la empresa y pulsa \" Comenzar\""
+			"value": "Introduce el nombre de la empresa y pulsa \"Comenzar\""
 		},
 		{
 			"id": "id_4",
