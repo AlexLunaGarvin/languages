@@ -1,24 +1,24 @@
 {
 	"model" : 0,
 	"revision" : 0,
-	"addition" : 2,
+	"addition" : 1,
 
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Bienvenidos"
+			"value": "¿Estáis preparados?"
 		},
 		{
 			"id": "id_2",
-			"value": "Introducid el nombre de la empresa y presionad 'Comenzar' Se ha actualizado correctamente"
+			"value": "Human reality es un juego cooperativo \"Team Building\". Tendréis 20 minutos para completar todos los puzzles. Se recomienda una buena comunicación entre el equipo ayudantes y el VRIT@. Cuando pulses comenzar se activará el cronometro."
 		},
 		{
 			"id": "id_3",
-			"value": "Comenzar"
+			"value": "Introduce el nombre de la empresa y pulsa \" Comenzar\""
 		},
 		{
 			"id": "id_4",
-			"value": "Borrar "
+			"value": "Comenzar"
 		}
 
 	]
