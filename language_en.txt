@@ -6,19 +6,19 @@
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Welcome"
+			"value": "Are you ready?"
 		},
 		{
 			"id": "id_2",
-			"value": "Type down your company name and press 'Start'"
+			"value": "Human reality is a cooperative \"Team Building\" game. You will have 20 minutes to complete all the puzzles. Good communication between the help team and the VRIT@ is recommended. When you press start the timer will be activated."
 		},
 		{
 			"id": "id_3",
-			"value": "Start"
+			"value": "Enter the company name and press \"Start\""
 		},
 		{
 			"id": "id_4",
-			"value": "Delete"
+			"value": "Start"
 		}
 
 	]
