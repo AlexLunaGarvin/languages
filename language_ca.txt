@@ -6,19 +6,19 @@
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Benvinguts"
+			"value": "¿Esteu preparats?"
 		},
 		{
 			"id": "id_2",
-			"value": "Introdueix el nom de l'empresa i prem 'Començar'"
+			"value": "Human reality és un joc cooperatiu \"Team Building\". Tindreu 20 minuts per completar tots els puzzles, es recomana una bona comunicació entre l'equip ajudant i el VRIT@. Quan premis \"iniciar\" s'activarà el cronòmetre."
 		},
 		{
 			"id": "id_3",
-			"value": "Començar"
+			"value": "Introdueix el nom de l'empresa i prem \"Iniciar\""
 		},
 		{
 			"id": "id_4",
-			"value": "Esborrar"
+			"value": "Iniciar"
 		}
 
 	]
